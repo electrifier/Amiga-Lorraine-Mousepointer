@@ -1,8 +1,14 @@
 # Amiga Workbench Mouse Cursors for Windows 10
 
-This is a forked contribution to https://github.com/sonninnos/Amiga-Workbench-Mouse-Cursors
+This is a fork of https://github.com/sonninnos/Amiga-Workbench-Mouse-Cursors.
 
-See https://github.com/sonninnos 's contributions: https://github.com/electrifier/Lorraine-Mouse-Cursors/commits?author=sonninnos
+Please credit
+[sonninnos](https://github.com/sonninnos)' -> 
+[contributions to this repository](https://github.com/electrifier/Lorraine-Mouse-Cursors/commits?author=sonninnos) - Thanks for sharing!
+
+
+
+[WB2 0-Normal-preview](https://user-images.githubusercontent.com/45124675/90980081-d5d02d80-e561-11ea-8b6e-556cd39d76aa.png)
 
 ### Workbench 2.0
 |Normal|Mini|
